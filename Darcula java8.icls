@@ -4,6 +4,7 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="8c8c8c" />
+    <option name="SELECTION_BACKGROUND" value="36558c" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -101,6 +102,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a488b4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="Scala Type Alias">
       <value>
         <option name="FOREGROUND" value="669797" />
@@ -111,6 +118,7 @@
         <option name="FOREGROUND" value="669797" />
       </value>
     </option>
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="b4c2d1" />
