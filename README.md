@@ -6,7 +6,7 @@ Darcula Color scheme for IntelliJ IDEA running on java 8
 - On java6 intellij looks a bit softer in colors which I like. So it would be great to get java8 on board and great look of intellij-java6 at the same time.
 - tested only on **Mac OS X** platform.
 
-Adapted languages (others may be added by oneone interested in that):
+Adapted languages (others may be added by anyone interested in that):
 - java
 - scala
 - groovy
