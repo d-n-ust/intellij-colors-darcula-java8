@@ -13,7 +13,9 @@ Adapted languages (others may be added by anyone interested in that):
 
 Comparison
 ------------
+- Darcula java8 original
 ![Darcula java8 original](https://cloud.githubusercontent.com/assets/6746907/13898041/050e73a4-edd7-11e5-8331-d1ef1b971cf7.png)
+- Darcula java8 adjusted
 ![Darcula java8 adjusted](https://cloud.githubusercontent.com/assets/6746907/13898040/050dde12-edd7-11e5-8f4b-a62587d01f9e.png)
 
 Installation
