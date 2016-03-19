@@ -14,7 +14,7 @@ Adapted languages (others may be added by anyone interested in that):
 Installation
 ------------
 
-1.  Copy `Darcula java8.icls` to your IntelliJ IDEA preferences
+1.  Copy `darcula_java8.icls` to your IntelliJ IDEA preferences
     color directory.
 
     *The colors directory may need to be created.*
@@ -22,6 +22,7 @@ Installation
     It is typically in **Mac OS X**:
     * `~/Library/Preferences/IntelliJIdea15/colors` [(IntelliJ IDEA 15 Ultimate Edition)],
     * `~/Library/Preferences/IdeaIC15/colors` [(IntelliJ IDEA 15 Community Edition)].
+    * `~/Library/Preferences/IdeaIC2016.1/colors` [(IntelliJ IDEA 16 Community Edition)].
 
 2. Restart IntelliJ IDEA
 
